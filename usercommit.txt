@@ -1,0 +1,2 @@
+hi this is user commit 
+adding and then we have to push this into remote repositary
